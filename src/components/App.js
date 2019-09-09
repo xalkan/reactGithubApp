@@ -8,7 +8,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      username: 'shahidalyk',
+      username: 'microsoft',
       userData: [],
       userRepos: [],
       perPage: 10
